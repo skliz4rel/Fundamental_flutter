@@ -1,0 +1,219 @@
+AboutDialog  ---- Shows About Dialog
+AboutListTile ----------Shows About information in a list
+AborbPointer ------------Cast a shade on the element in wraping
+AlertDailog --------------Alert Dailog box for notifying information
+Align ----------- Position widget
+AnimatedAlign --------------Makes a slide movement based on alignment
+AnimatedBuilder ------------You can create an item that rotates for every.
+repeats a sequence of movement on the screen constantly.
+AnimatedContainer  ------------ Once you click on the container, some animated feature happens
+AnimatedCrossFade --------------You can use it to switch images on screen or other components.
+AnimatedDefaultTextStyle -------When you click on the switch text would sohw animateion
+AnimatedIcon ---The icon would snow animation when clicked.
+AnimatedList----This would show list items in an animated form. appear and disappear mode style.
+AnimatedModalBarrier --- This is a modal barrier that comes over a button for few minutes.
+AnimatedOpacity --- This would allow a component fade out after a while.
+AnimatedPadding ---- changes the padding of an item in an animated transition.
+AnimatedPhysicalModal ---This can cast a shadow on an element
+AnimatedPositioned--- helps to move the position of a widget
+AnimatedRotation---Helps to give rotation animation
+AnimatedSize ------Animate the size growth
+AnimatedSwitcher ----It gives a switch item changeer in an animated flow.
+AppBar ---For creating AppBar
+AspectRatio --It does a ration on a contiainer with  a shape casted on it.
+AutoComplete---This is for suggesting auto complete when user types in a text box
+BackdropFilter-- is when you have a transparent blur on a particular contiainer
+Banner----Creating a banner for your app screen
+Baseline ---This is more like a base line container to set has a parent for your smaller component
+BlockSemantics ---
+BottomNavigationBar-----bottom navigation bar
+ModalBottomSheet ---Modal Bottom sheet that comes from the bottom of your application
+Builder ----builder Would give you access to a new context.
+Card----card comoponent
+Center--- keep component int he center
+CheckBox --- checkbox
+CheckBoxListTile --- shows checkbox with a text by the side in a list view style
+Chip  ----Chip is like a hint text in boostrap.
+ChoicChip --Choice chip can change colors when you select it.
+CircleAvatar --Circle arround your image	
+CircularProgressIndicator ---- ProgressIndicator
+ClipOval -------circular hint 
+ClipPath ---This woudl help create background wave
+ClipRect ---
+ClipRRect --- for create rounded image for any component or squar.
+CloseButton  ----- used for creating close bottom.
+ColouredBox ----- colored box
+ColouredFilter -------- it is used to create a colour blend effect on images.
+ConstrainedBox ---------it is used to constrain any widget to take a particular form or size.
+Container---Container for arranging components. It can have different position depending on how you set it.
+Column - Aligns items in a column form. For vertical positioning.
+CupertinoApp  --- This isi the background App for creating IOS application.
+CupertinoPageScaffold -- This is for creating a Scaffold page in IOS application.
+CupertinoActionSheetAction -- button to create action sheet popup
+CupertinoActivityIndicator ----Indicator loading animation action
+CupertinoAlertDialog -----Alert dialog of IOS.
+CupertinoButton  ---
+ConpertinoContextMenuAction ---- context menu for IOS app
+CupertinoDatePicker -----------creating date time picker
+CupertinoPageRoute -- routing / switching pages for IOS app.
+CupertinoPageScaffold -- Same as the material design page scaffold
+CupertinoPicker -- a bottom selection picker.
+CupertinoPopupSurface ---Popup surface that shows after a button is clicked.
+CupertinoScrollBar --- a scrolbar component
+CupertinoSearchTextField ---A search bar field for IOS
+CupertinoSegmentCOntroller  --- More like a Tab view
+CupertinoSlider ---Slider Widget
+CupertinoSliderSegmentedControl -- Animated Tab view for IOS
+CupertinoSwitch -----Switch component
+CupertinoTabScaffold --- This would give you a Tab Pageview like Whatsapp view.
+A tab at the top or bottom for page navigation.
+CupertinoTabBar ----Tab bar navigator
+CupertinoTabView --- The middlespace for layering component
+CupertinoTextField --- Creating Textfield for widget for ios application.
+CustomPaintWidget ---Painting a group of components with different custom colors.
+CustomScrollView --- A scrollview with custom built components in it.
+DataTable ---- Creating a Table with content of rows and columns
+DataColumn ---used inside a DataTable to create a column. So when using this. You must ensure you use the DataRow and DataCell inside the row.
+DataCell ---used for creating a cell for a table row
+DataRow ---- used for creating a row.
+TimePicker  ----- widget for time
+DatePicker - widget ofr date
+DateRangePicker  ---- picking from a date to another date.
+DecoratedBox -------used for creating a gradient of color in the background of an application. It is a container used for color effect.
+DecoratedBoxTransition ---This is a container animation that helps transition for two different DecoratedBox.
+DefaultTextStyle ---- This is used to give a default style for your text widgets.
+Dismissible --- This is for using items in a list.
+Divider--- used to divide between 2 widget
+DraggableScrollable ----- A scrollable widget that can be dragged
+DragTarget -- This would allow you pull a draggable widget and put inside a drag target widget. Used for animations and gamming.
+Draggable Widget ------ Widdget that can be dragged from one position to another.
+Drawer widget --- This is a left or right drawer menu slider.
+Drawer Header ----This is the head of the Drawer widget.
+Drop down menu button --- a button with drop down menus. It is mostly used in the Appbar left or right corner.
+ElevatedButton  --- This is  a raised button.
+FlutterErrorDetails ----This is the error utilty that flutter gives you.
+ErrorWidget  ----------- For showing errors for your application
+Expanded ---- For expanding a container component to fit a space in screen. It helps proportion height in a resiable way.
+ExpandIcon  --- It is an icon that woudl display if a component is expanded or not. It can be used to create a toggle to expand and collapse. Like Accordions.
+ExpansionPanelList -- Same as accordition
+ExpansionPanel----- is the body of the accordion
+ExpansionTile ----Expansion Tile. Tiles that can expand and slide back.
+FadeInImage --You can use this when loading image from the internet. You put a placeholder until your image is loaded.
+FadeTransition ----Animation that helps fade in and fade out for ever.
+FadeChip ---
+FittedBox -- text fitting into a container
+Flexible----Flexible is used to arrange size based on flex property. it a flexible resizer container.
+Difference between Expanded and Flexible. Expanded woudl always expand to the maximum height even if you set a specific height. It leaves no space unleft.
+FloatingActionButton ---- A floating action button on the screen of a app window.
+Flow --- For creating flow menu
+FlutterLogo ---- This shows the flutter logo
+Form ---- for creating forms
+FractionalTranslation-----------This is used to position elements based on cordinates of other elements in the layout. It gives you flexibility to use dynamic positions.
+FractionallySizedBox -------This can  be used to set size of a box based on fraction coordinates.
+FutureBuilder ----used when getting data from a webservice, database or dynamic point. It used to build a components that you dont have all at once. async builder.
+GestureDetector --- It gives a component touch action.
+GridPaper -- It gives a paper background.
+GridTile ----Grid style container widget
+GridTileBar--- it a title bar ofthe GridTile widget
+GridView -----This is going to give you a grid view
+Hero------used to animate the transition in a different widget page
+Icon ----- used to create icons
+IconButton---Button with icons
+IgnorePointer----
+Image ---- rendering images
+IndexedStacked ---can be used to create image changer banner
+InkWell ---------click that changes color of container
+InputChip--
+InteractiveViewer --- widget that can be dragged, zoomed in and out in a parent widget. The inner widget can be anything(any kind of widget).
+Layout  ----is used for transitioning your screen from small size and big size.
+LimitedBox ---
+LinearProgressIndicator---linear progress bar
+Listener ---- Listens for even on the screen
+ListTile --- list tile. is used to create a list in a tile form 
+ListView -- contains a vertical list of listtiles. in a scrollable list
+ListWhileScrollView - This would create a list with a car while animated scroll style
+LongPressDraggable  ---select hold and drag a widget.
+MaterialApp  ---- This is the Material App widget for android devices material design.
+MaterialBanner ---- used to create a popup banner when button is clicked.
+Material Button  ----material design button
+MergeSemantics --------------
+ModalBarrier----can be used to create a modal background for a button after click event.
+SystemMouseCursors  ------ used to create a mouse hand on a widget
+MouseRegion  ------- This can be used to trap mouse enter, exit, cursor events.
+NavigationBar -- This is a bottom tab navigation bar. Used for creating tab switches in a container;
+NotificationListener ----This gives you notification for a scroll widget when used to wrap it.
+Offstage  ------Allows you to hide and show widget inside your app. You can trigger this via a button to hide and show images.
+Opacity  ---------You can create different tickness of opacity on defferent items.
+OrientationBuilder -----This is used to detect when a screen is changed from portait to landscape. Happens when a user rottates phone device.
+OutlinedButton -----
+OverflowBar ----------used to position items in a row via  a bar. but if the list of items is too long it transform into a column arrangement.
+Padding ------------adds padding to container
+PageView --------Allows you to create a slide containers representing different pages.
+PhysicalModal --- This gives a modal shadow background for your widget.
+PhysicalShape ----Allow you to create a circular border on a widget.
+Placeholder -------used to create wire frame when we are designing our page layout. it can take the place of actual component on screen at early stage of design.
+PlatformMenuBar ----Only for MacOS
+PopupMenuButton-----used for creating popup menu in your screen
+Positioned ----------Position elements on each other
+PositionedTransition----Widget movement animation
+PreferredSize---- For creating predefined styles
+Radio ----Radio button
+RadioListTile ----This is a list of radio buttons
+RangeSlider --- This is an horizontal slider
+RawAutocomplete---multiple suggestion in our textfield.
+RawChip -------- is a chip that looks like a tag.
+RefreshIndicator  -----This gives indicator of a refresh
+ReorderableListView ---listitems that can be dragged and rearranged.
+ListText -----Having a test with different font styles.
+RotatedBox --This is use to Rotate a box to a specific angle.
+RotationTransition -- This widget would show a component rotate multiple times on the screen.
+Row  --- Helps to arrange other components in a row format.
+Scaffold-- This gives you a default window screen with a statusbar, navigation bar and a body.
+ScaleTransition   -- this can be used to create a logo that expands and contracts.
+Scrollbar ---Allows overfloat items to be scrollable.
+Selectable  ---- This are text that can be selected.
+Semantics ----- THis is more like a border wrapper for items placed on screen
+ShaderMask ---- This is a text with a shadow gradient
+shortcut ---Allows you to add shortcuts to your application. you can use keyboard to control your application.
+SimpleDailog--- For creating dialog boxes.
+SingleChildScrollView  ---- makes any widget scrollble
+SizeTransition  ------ This helps an animation were the widget increases in size from one side to the other
+SizedBox --Give a widget a fixed size
+SizedOverflowBox--- THis is a widget that allows the inner widget to take more place than it. So it overflows and overlap the parent widget.
+SlideTransition --- Helps make a widget slide.
+Slider  --- This is for creating a slider widget
+SliverAppBar ---- This is an AppBar that has an expanded height. Tt can expand vertically. it shrinks to show my element. Expands to show less element.
+SlizerFixedExtendList  ---- This is a list that can extend with items having different background color
+SliverGrid  ---- This is a Grid widget with cells  having multiple background.
+SilverList -- A list with items that have different colors.
+SilverOpacity  ----
+SilverPadding  ----- 
+SilverToBoxAdapter ---- allows youto create a widget in a list.
+
+SnackBar  --Toast notification.
+Spacer --- used to create a spacer
+Stack --- stack object over eachother.
+Stepper -- It would create a step by step flow inside your application.
+StreamBuilder  --- This is a builder used when display data from an apis. Since data is coming asynchronously, we would display it step by step.
+Switch  -- This is a toggle button for on and off.
+SwitchListTile  --- This is a switch on a ListTile position.
+TabBar ----- Tab view
+TabPageSelector -----This woudl give you a tab page navigation widget
+Table --- For creating a simple table
+Text ------------- creating a text
+TextButton ------ creating text button
+TextField  -------------This is for creating textfield
+TextFormField --------- 
+TextSpan  -----------------
+Theme Data--- This is for creating new theme
+ToggleButton -------------------Toggle buttons 
+ToolTip----------This displays a tool tip when you press the image long enough
+Transform ----This is for rendering a rotating position for an image
+TweenAnimationBuilder --------This can be used to build expand and shrink animation.
+ValueListenableBuilder------This helps to change values without using setState
+VerticalDivider ---- This is for dividing the page in a vertical form.
+Visibility  ----- This can be used to hide and show a widget on the screen.
+WillPopScope -----It used to preventing the back button from working, after a user has navigated to a new page.
+Wrap  --------it is used for wraping a list of widget
+SafeArea  ------- This help to prevent your Header text from showing on your status bar. So it used inside the AppBar widget of an application.
+
