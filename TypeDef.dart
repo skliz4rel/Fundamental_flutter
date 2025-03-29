@@ -1,4 +1,3 @@
-
 /**
  * typedef is a function alias used to call several functions with the same argument signature.
  * You can  use it to call multiple functions into executiion 

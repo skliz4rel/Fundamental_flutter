@@ -18,3 +18,7 @@ extension CapitalizeFirstLetter on String {
     return this[0].toUpperCase() + this.substring(1);
   }
 }
+
+extension LowerFirstLetter on String {
+  String lowerFirstLetter() => this[0].toLowerCase() + this.substring(1);
+}
